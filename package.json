@@ -27,8 +27,8 @@
     "lint"
   ],
   "dependencies": {
-    "image-clipper": "~0.4.4",
-    "slices": "~0.1.4",
+    "image-clipper": "sanchitd5/image-clipper#master",
+    "slices": "sanchitd5/slices#master",
     "commander": "~14.0.0"
   },
   "devDependencies": {
